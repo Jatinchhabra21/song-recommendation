@@ -1,4 +1,4 @@
-<h2>Song Recommendation using cosine similarity score<h2>
+<h2>Song Recommendation using cosine similarity score</h2>
   
   <p>This project is one of the assessment for Machine Learning Foundation course for my B.Tech degree. </p>
   <p>In this project I have used spotify song dataset to generate recommendations</p>
