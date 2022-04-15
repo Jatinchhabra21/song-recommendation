@@ -2,7 +2,7 @@
   
   <p>This project is one of the assessment for Machine Learning Foundation course for my B.Tech degree. </p>
   <p>In this project I have used spotify song dataset to generate recommendations</p>
-  <p>Dataset can be obtained by visiting my kaggle at <a href="https://www.kaggle.com/code/jatinchhabra21/song-recommendation/data">kaggle</a></p>
+  <p>Dataset can be obtained by visiting my <a href="https://www.kaggle.com/code/jatinchhabra21/song-recommendation/data">kaggle</a></p>
   <p>To use python notebook yourself provide your own credentials for spotify api in a text file. Also, do change the path to all the files that are being accessed.</p>
   <p>For generating recommendations the notebook runs for approx. 3 minutes per playlist.</p>
   
