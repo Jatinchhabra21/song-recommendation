@@ -10,7 +10,7 @@
   <h2>Approach</h2>
   <p>Content based recommendation engines works on the data provided by user, in this case it is the playlist provided by the user.</p>
   <p>I have used various field that describe audio for the songs like valence, acousticness, liveness, energy, loudness etc and attributes like genres and    popularity.</p>
-  <p>For genres to be sensible for from which machine could learn I have used TFIDF vectorizer to convert it into document matrix from list like object. Categoriacal features like popularity and year are one hot encoded using pd.get_dummies function</p>
+  <p>For genres to be sensible from which machine could learn I have used TFIDF vectorizer to convert it into document matrix from list like object. Categoriacal features like popularity and year are one hot encoded using pd.get_dummies function</p>
   
   <h2>Why not euclidean distance as a similarity score metric?</h2>
   <p>Euclidean distance doesn't consider direction of vector, it only considers distance for giving similarity score, while cosine similarity considers angle between the two vectors while giving similarity score.</p>
